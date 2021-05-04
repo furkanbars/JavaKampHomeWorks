@@ -1,5 +1,6 @@
 package Adapters;
 
+
 import Abstract.CustomerCheckService;
 import Entities.Customer;
 import tr.gov.nvi.tckimlik.WS.KPSPublicSoapProxy;

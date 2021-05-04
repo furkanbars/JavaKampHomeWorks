@@ -1,5 +1,6 @@
 package Entities;
 
+
 import Abstract.Entity;
 
 public class Customer implements Entity{
